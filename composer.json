@@ -1,6 +1,6 @@
 {
-    "name": "jbtje/vtiger-laravel",
-    "description": "A vtiger api wrapper",
+    "name": "scotchadmins/vtiger-laravel",
+    "description": "A vTiger-Laravel api wrapper",
     "license": "MIT",
     "version": "v0.1.0",
     "require": {
